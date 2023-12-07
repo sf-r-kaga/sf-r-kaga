@@ -1,5 +1,12 @@
+# profile
 
-languages and tools
+## self-introduction
+
+Style Free Co., Ltd.
+
+Belongs to Nagoya branch
+
+## languages and tools
 
 ### OS
 
