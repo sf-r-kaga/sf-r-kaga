@@ -13,7 +13,7 @@ languages and tools
 
 ![](https://img.shields.io/badge/-Java-000000.svg?style=plastic&logo=Java)
 ![](https://img.shields.io/badge/-Kotlin-7F52FF.svg?style=plastic&logo=Kotlin)
-![](https://img.shields.io/badge/-C#-512BD4.svg?style=plastic&logo=C#)
+![](https://img.shields.io/badge/-CSharp-512BD4.svg?style=plastic&logo=CSharp)
 ![](https://img.shields.io/badge/-HTML5-E34F26.svg?style=plastic&logo=HTML5)
 ![](https://img.shields.io/badge/-CSS3-1572B6.svg?style=plastic&logo=CSS3)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?style=plastic&logo=JavaScript)
